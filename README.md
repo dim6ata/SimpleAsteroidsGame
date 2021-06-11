@@ -1,6 +1,6 @@
 # SimpleAsteroidsGame
 
-### An introduction to C++ OpenGL graphics programming that was developed as a university coursework. 
+### An introduction to C++ OpenGL graphics programming that was developed for a university coursework. 
 
 The program draws 2D ship and asteroids. The ship can shoot projectiles and destroy asteroids. 
 
